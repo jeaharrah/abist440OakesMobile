@@ -2,8 +2,8 @@
 ## Mobile Development for Capstone
 
 ### Technical Details
-The Spring 2019 IST 440 Capstone course will use the Android Studio platform 3.2.1 (Java and XML) and cloud services to build a mobile app on an RC vehicle (www.hpiracing.com) that captures sensory data and integrates with cloud-based web services. The mobile device provided will be the Essential phone PH-1 (Android 8.1 Oreo ) with an Essential 360 4K camera. 
-Android Studio platform:
+The Spring 2019 IST 440 Capstone course will use the Android Studio platform 3.2.1 (Java and XML) and cloud services to build a mobile app on an RC vehicle (www.hpiracing.com) that captures sensory data and integrates with cloud-based web services. The mobile device provided will be the Essential phone PH-1 (Android 8.1 Oreo) with an Essential 360 4K camera. 
+#### Android Studio platform:
 * Dashboard Vehicle Interface DVI Screens: Connectivity, Direction/Location, Climate, Authentication, Lighting, Usage Reporting, Diagnostics
 * Wifi network connectivity: Status - active, available, offline
 * App auto update
